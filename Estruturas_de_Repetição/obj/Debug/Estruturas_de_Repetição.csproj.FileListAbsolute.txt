@@ -1,0 +1,11 @@
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\bin\Debug\Estruturas_de_Repetição.exe.config
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\bin\Debug\Estruturas_de_Repetição.exe
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\bin\Debug\Estruturas_de_Repetição.pdb
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.csproj.AssemblyReference.cache
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.csproj.SuggestedBindingRedirects.cache
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.Form1.resources
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.Properties.Resources.resources
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.csproj.GenerateResource.cache
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.csproj.CoreCompileInputs.cache
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.exe
+H:\POO\Primeira etapa\Estruturas_de_Repetição\Estruturas_de_Repetição\obj\Debug\Estruturas_de_Repetição.pdb
